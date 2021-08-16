@@ -1,0 +1,13 @@
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.exe
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.deps.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.runtimeconfig.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.runtimeconfig.dev.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.dll
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\bin\Debug\netcoreapp3.1\Arrays 101.pdb
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.csproj.AssemblyReference.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.AssemblyInfoInputs.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.AssemblyInfo.cs
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.csproj.CoreCompileInputs.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.dll
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.pdb
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\Excercises\obj\Debug\netcoreapp3.1\Arrays 101.genruntimeconfig.cache

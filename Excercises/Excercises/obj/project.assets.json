@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Excercises.csproj",
-      "projectName": "Excercises",
-      "projectPath": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Excercises.csproj",
+      "projectUniqueName": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj",
+      "projectName": "Arrays 101",
+      "projectPath": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj",
       "packagesPath": "C:\\Users\\BealsD\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\obj\\",
       "projectStyle": "PackageReference",

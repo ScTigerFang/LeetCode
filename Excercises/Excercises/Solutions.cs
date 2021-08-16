@@ -1,6 +1,6 @@
 ﻿namespace Excercises
 {
-    public class Solution
+    public class Solutions
     {
         /// <summary>
         /// Given a binary array nums, return the maximum number of consecutive 1's in the array.
@@ -24,6 +24,17 @@
                 
             }
             return max = (current > max) ? current : max;
+            //test result = top 3.5%
+        }
+
+        /// <summary>
+        /// Given an array nums of integers, return how many of them contain an even number of digits.
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
+        public static int FindNumbers(int[] nums)
+        {
+            return 0;
         }
     }
 }
