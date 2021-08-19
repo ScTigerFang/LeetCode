@@ -1,4 +1,6 @@
-﻿namespace Excercises
+﻿using System.Collections.Generic;
+
+namespace Excercises
 {
     public class Solutions
     {
@@ -34,6 +36,8 @@
         /// <returns></returns>
         public static int FindNumbers(int[] nums)
         {
+            int oddNumbers = 0;
+            List<int> vs = new List<int>();
             return 0;
         }
     }

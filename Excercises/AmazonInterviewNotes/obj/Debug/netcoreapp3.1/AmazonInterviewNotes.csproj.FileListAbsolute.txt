@@ -1,0 +1,13 @@
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.exe
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.deps.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.runtimeconfig.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.runtimeconfig.dev.json
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.dll
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.pdb
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.csproj.AssemblyReference.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.AssemblyInfoInputs.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.AssemblyInfo.cs
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.csproj.CoreCompileInputs.cache
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.dll
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.pdb
+C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.genruntimeconfig.cache
