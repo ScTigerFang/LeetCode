@@ -12,6 +12,13 @@ using System.Diagnostics;
  * 
  * https://dotnettutorials.net/course/csharp-dot-net-programs/
  * 
+ * 
+ * 
+ * Some Youtube Links that I want to try
+ * https://www.youtube.com/watch?v=5co5Gvp_-S0  First non repeating Character
+ * https://www.youtube.com/watch?v=XSdr_O-XVRQ  first duplicate
+ * https://www.youtube.com/watch?v=sfuZzBLPcx4  Sum of 2 from arrays
+ * https://www.youtube.com/watch?v=s8YcbwVl-HI  hashTables c#
  */
 
 namespace AmazonInterviewNotes
@@ -23,7 +30,7 @@ namespace AmazonInterviewNotes
             //Swapping.swappingMethods();//1 of 31
             //FibonacciSeries.ChooseSolution();//2 of 31
 
-            DataTypes.ListsAreEasy();
+            DataTypes.ChooseSolution();
 
         }
     }
