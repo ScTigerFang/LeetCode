@@ -22,6 +22,12 @@ namespace AmazonInterviewNotes
                 case 3:
                     SortSets();
                     break;
+                case 4:
+                    Stack();
+                    break;
+                case 5:
+                    CheckListQueue();
+                    break;
                 default:
                     break;
             }
@@ -39,13 +45,13 @@ namespace AmazonInterviewNotes
             List<string> listOfLCSTeams = new List<string>();
             listOfLCSTeams.Add("TSM");
             Console.WriteLine(listOfLCSTeams);
-            listOfLCSTeams.AddRange(new List<string>(){"TL","C9"});
+            listOfLCSTeams.AddRange(new List<string>() { "TL", "C9" });
             Console.WriteLine(listOfLCSTeams);
         }
 
         //https://www.wikitechy.com/tutorials/csharp/csharp-hashset
         //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1?view=net-5.0
-        internal static void HashSetsOhDear() 
+        internal static void HashSetsOhDear()
         {
             //Main thing with hashsets is it only stores unique values/keys.
             var lcsTeams = new HashSet<string>();
@@ -87,7 +93,7 @@ namespace AmazonInterviewNotes
             {
                 Console.Write("{0} \n", team);
             }
-            
+
             SortedSet<double> lcsKDAs = new SortedSet<double>();
             lcsKDAs.Add(2.1);
             lcsKDAs.Add(12.1);
@@ -102,5 +108,51 @@ namespace AmazonInterviewNotes
                 Console.Write("{0} \n", team);
             }
         }
+
+        //https://www.wikitechy.com/tutorials/csharp/csharp-stack
+        //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1?view=net-5.0
+        internal static void Stack() {
+            Stack<int> bunchOfNumbers = new Stack<int>();
+
+            for (int i = 0; i < 1000; i++)
+            {
+                bunchOfNumbers.Push(i);
+            }
+            foreach (int number in bunchOfNumbers)
+            {
+                if (number%3 == 0)
+                {
+                    Console.WriteLine(" {0}", number);
+                }
+            }
+        }
+
+        //https://www.wikitechy.com/tutorials/csharp/csharp-queue
+        //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=net-5.0
+        private static void CheckListQueue()
+        {
+            Queue<String> checklist = new Queue<string>();
+            checklist.Enqueue("Creating this checklist");
+            checklist.Enqueue("Adding Values to this Checklist");
+            checklist.Enqueue("Creating code that allows you to peek");
+            checklist.Enqueue("Ask if you want to remove what you peeked");
+            checklist.Enqueue("Dequeue item");
+
+            while (checklist.Count > 0)
+            {
+                Console.WriteLine("Next item on the todo list: {0}", checklist.Peek());
+                Console.WriteLine("Press enter if you have done it, and to remove it");
+                Console.ReadLine();
+                Console.WriteLine(checklist.Dequeue() + " - Has been removed");
+            }
+        }
+
+        //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1?view=net-5.0
+        //https://www.wikitechy.com/tutorials/csharp/csharp-linked-list
+        internal static void LinkyListies() 
+        { 
+            
+        }
+
     }
 }
