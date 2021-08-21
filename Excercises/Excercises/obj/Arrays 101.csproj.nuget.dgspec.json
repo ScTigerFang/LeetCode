@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj": {}
+    "F:\\Coding\\Visual Studio\\Repos\\Excercises\\Excercises\\Arrays 101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj": {
+    "F:\\Coding\\Visual Studio\\Repos\\Excercises\\Excercises\\Arrays 101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj",
+        "projectUniqueName": "F:\\Coding\\Visual Studio\\Repos\\Excercises\\Excercises\\Arrays 101.csproj",
         "projectName": "Arrays 101",
-        "projectPath": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\Arrays 101.csproj",
-        "packagesPath": "C:\\Users\\BealsD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BealsD\\Source\\Repos\\LeetCode\\Excercises\\Excercises\\obj\\",
+        "projectPath": "F:\\Coding\\Visual Studio\\Repos\\Excercises\\Excercises\\Arrays 101.csproj",
+        "packagesPath": "C:\\Users\\sctig\\.nuget\\packages\\",
+        "outputPath": "F:\\Coding\\Visual Studio\\Repos\\Excercises\\Excercises\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BealsD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sctig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

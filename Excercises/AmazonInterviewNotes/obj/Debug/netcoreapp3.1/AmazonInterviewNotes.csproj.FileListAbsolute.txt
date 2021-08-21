@@ -11,3 +11,17 @@ C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\
 C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.dll
 C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.pdb
 C:\Users\BealsD\Source\Repos\LeetCode\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.genruntimeconfig.cache
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.exe
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.deps.json
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.runtimeconfig.json
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.runtimeconfig.dev.json
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.dll
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\bin\Debug\netcoreapp3.1\AmazonInterviewNotes.pdb
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.csproj.AssemblyReference.cache
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.AssemblyInfoInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.AssemblyInfo.cs
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.csproj.CoreCompileInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.dll
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.pdb
+F:\Coding\Visual Studio\Repos\Excercises\AmazonInterviewNotes\obj\Debug\netcoreapp3.1\AmazonInterviewNotes.genruntimeconfig.cache
