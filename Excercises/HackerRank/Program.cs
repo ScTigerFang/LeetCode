@@ -6,6 +6,7 @@ namespace HackerRank
     {
 
         //https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges
+        //https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges
         static void Main(string[] args)
         {
             ChooseProblem();
