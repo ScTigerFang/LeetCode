@@ -33,5 +33,17 @@ namespace AmazonInterviewNotes
             DataTypes.ChooseSolution();
 
         }
+
+
+        static void BasicDataTypes() {
+            //https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net
+            float flt = 1F / 3;//Fastest
+            double dbl = 1D / 3;//Middle
+            decimal dcm = 1M / 3;//Most Precise
+            Console.WriteLine("float: {0} double: {1} decimal: {2}", flt, dbl, dcm);
+            //float:    0.3333333
+            //double:   0.333333333333333
+            //decimal:  0.3333333333333333333333333333
+        }
     }
 }

@@ -1,0 +1,14 @@
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.exe
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.deps.json
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.json
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.dev.json
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.dll
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.pdb
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csproj.AssemblyReference.cache
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfoInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfo.cs
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csproj.CoreCompileInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.dll
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.pdb
+F:\Coding\Visual Studio\Repos\Excercises\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.genruntimeconfig.cache

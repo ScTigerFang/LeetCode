@@ -28,6 +28,9 @@ namespace AmazonInterviewNotes
                 case 5:
                     CheckListQueue();
                     break;
+                case 6:
+                    LinkyListies();
+                    break;
                 default:
                     break;
             }
@@ -150,8 +153,54 @@ namespace AmazonInterviewNotes
         //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1?view=net-5.0
         //https://www.wikitechy.com/tutorials/csharp/csharp-linked-list
         internal static void LinkyListies() 
-        { 
-            
+        {
+            LinkedList<string> linkedListExample = new LinkedList<string>();
+            for (int i = 0; i < 10; i++)
+            {
+                _ = i%2 == 0 ? linkedListExample.AddFirst("User{0}" + i) : linkedListExample.AddLast("User" + i);
+            }
+            foreach (var item in linkedListExample)
+            {
+                Console.WriteLine(item);
+
+            }
+            //Below doesnt reverse it how I would like 0 was missing, without using another data type - probably not worth digging into right now.
+            LinkedListNode<string> linkedListNode1 = null;
+            LinkedListNode<string> linkedListNode2 = null;
+            LinkedList<string> linkedListExample2 = new LinkedList<string>();
+            for (int i = -1; i < linkedListExample.Count ; i++)
+            {
+                linkedListNode1 = linkedListExample.First;
+                linkedListNode2 = linkedListExample.Last;
+                linkedListExample.RemoveFirst();
+                linkedListExample.RemoveLast();
+                linkedListExample2.AddLast(linkedListNode1);
+                linkedListExample2.AddFirst(linkedListNode2);
+            }
+            foreach (var item in linkedListExample2)
+            {
+                Console.WriteLine(item);
+
+            }
+        }
+
+        internal static void DictionaryVsHashTable() {
+            Dictionary<int, LCSTeam> lcsTeamsDictionary = new Dictionary<int, LCSTeam>();
+            for (int i = 0; i < 10000; i++)
+            {
+                LCSTeam dubbyLCsTeam = new LCSTeam
+                {
+                    teamID = Guid.NewGuid(),
+                    name = "NotTSMv" + i,
+                    place = i,
+                    roaster = new List<Player>()
+                };
+                for (int playerNumber = 0; playerNumber <= 4; playerNumber++)
+                {
+                    dubbyLCsTeam.roaster.Add(new Player(Guid.NewGuid(),"PlayerNumber", (10D * playerNumber) / 3, playerNumber));
+                };
+                lcsTeamsDictionary.Add(i, dubbyLCsTeam);
+            }
         }
 
     }
