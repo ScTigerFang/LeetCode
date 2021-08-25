@@ -24,6 +24,9 @@ namespace HackerRank
                 case 2:
                     MiniMaxSum.MiniMaxSumProblem();
                     break;
+                case 3:
+                    TimeConversion.TimeConversionProblem();
+                    break;
                 default:
                     break;
             }

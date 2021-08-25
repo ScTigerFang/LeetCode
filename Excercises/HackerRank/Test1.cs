@@ -15,17 +15,18 @@ using System;
 namespace HackerRank
 {
     //PDFHere
-    class CopyAndPaste
+    class Test1
     {
-        public static void CopyAndPasteProblem()
+        public static void Test1Problem()
         {
             //CopyAndPasteSolution(arr);
             throw new NotImplementedException();
         }
 
-        private static void CopyAndPasteSolution(List<int> arr)
+        private static void Test1Solution(List<int> arr)
         {
-            throw new NotImplementedException();
+            arr.Sort();
+            Console.WriteLine(arr[(arr.Count/2)]);
         }
     }
 }
