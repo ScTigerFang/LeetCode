@@ -15,17 +15,32 @@ namespace HackerRank
         public static void ChooseProblem()
         {
             Console.WriteLine("Which Option do you want?");
-            int choose = int.Parse(Console.ReadLine());
+            var choose = Console.ReadLine();
             switch (choose)
             {
-                case 1:
+                case "1":
                     PlusMinus.PlusMinusProblem();
                     break;
-                case 2:
+                case "2":
                     MiniMaxSum.MiniMaxSumProblem();
                     break;
-                case 3:
+                case "3":
                     TimeConversion.TimeConversionProblem();
+                    break;
+                case "test1":
+                    Test1.Test1Problem();
+                    break;
+                case "4":
+                    LonelyInteger.LonelyIntegerProblem();
+                    break; 
+                case "5":
+                    DiagonalDifference.DiagonalDifferenceProblem();
+                    break;
+                case "6":
+                    CountingSort1.CountingSort1Problem();
+                    break;
+                case "test2":
+                    Test2.Test2Problem();
                     break;
                 default:
                     break;

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Excercises",
+    "\\Excercises\\AmazonInterviewNotes"
   ],
-  "SelectedNode": "\\Excercises.sln",
+  "SelectedNode": "\\Excercises\\AmazonInterviewNotes\\DataTypes.cs",
   "PreviewInSolutionExplorer": false
 }
