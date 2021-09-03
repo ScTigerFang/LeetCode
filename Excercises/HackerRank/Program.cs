@@ -42,6 +42,12 @@ namespace HackerRank
                 case "test2":
                     Test2.Test2Problem();
                     break;
+                case "7":
+                    ZigZagSequence.ZigZagSequenceProblem();
+                    break;
+                case "8":
+                    TowerBreakers1.TowerBreakers1Problem();
+                    break;
                 default:
                     break;
             }
