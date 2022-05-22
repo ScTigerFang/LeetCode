@@ -14,7 +14,8 @@ namespace LeetCode.Medium
         {
             int minCoinsRequired = 0;
             int amountLeft = amount;
-
+            //This was my first attempt - failed a certain test but passed others, need to improve.
+            //something to look into to understand https://leetcode.com/problems/coin-change/discuss/77466/C-implementation
             if (amount == 0)
                 return 0;
             if (coins.Min() > amount)
