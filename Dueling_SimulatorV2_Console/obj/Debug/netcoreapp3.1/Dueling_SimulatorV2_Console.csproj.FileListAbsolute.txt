@@ -1,0 +1,14 @@
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.exe
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.deps.json
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.runtimeconfig.json
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.runtimeconfig.dev.json
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.dll
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\bin\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.pdb
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.csproj.AssemblyReference.cache
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.AssemblyInfoInputs.cache
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.AssemblyInfo.cs
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.csproj.CoreCompileInputs.cache
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.dll
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.pdb
+F:\Coding\Visual Studio\Repos\Dueling_SimulatorV2_Console\obj\Debug\netcoreapp3.1\Dueling_SimulatorV2_Console.genruntimeconfig.cache

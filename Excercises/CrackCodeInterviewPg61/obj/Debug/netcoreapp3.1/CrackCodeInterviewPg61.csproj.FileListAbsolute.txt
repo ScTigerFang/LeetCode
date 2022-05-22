@@ -1,0 +1,14 @@
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.exe
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.deps.json
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.runtimeconfig.json
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.runtimeconfig.dev.json
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.dll
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\bin\Debug\netcoreapp3.1\CrackCodeInterviewPg61.pdb
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.csproj.AssemblyReference.cache
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.AssemblyInfoInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.AssemblyInfo.cs
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.csproj.CoreCompileInputs.cache
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.dll
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.pdb
+F:\Coding\Visual Studio\Repos\Excercises\CrackCodeInterviewPg61\obj\Debug\netcoreapp3.1\CrackCodeInterviewPg61.genruntimeconfig.cache

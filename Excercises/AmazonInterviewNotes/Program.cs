@@ -30,12 +30,15 @@ namespace AmazonInterviewNotes
             //Swapping.swappingMethods();//1 of 31
             //FibonacciSeries.ChooseSolution();//2 of 31
 
-            DataTypes.ChooseSolution();
-
+            //DataTypes.ChooseSolution();
+            string v = ReverseVowels("Hello");
+            Console.WriteLine(v);
+            Console.ReadLine();
         }
 
 
-        static void BasicDataTypes() {
+        static void BasicDataTypes()
+        {
             //https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net
             float flt = 1F / 3;//Fastest
             double dbl = 1D / 3;//Middle
@@ -44,6 +47,48 @@ namespace AmazonInterviewNotes
             //float:    0.3333333
             //double:   0.333333333333333
             //decimal:  0.3333333333333333333333333333
+        }
+
+        static public string ReverseVowels(string s)
+        {
+            if (s == null || s.Length == 0)
+                return s;
+
+            char[] stringArray = s.ToCharArray();
+            int forward = 0;
+            int backwards = s.Length - 1;
+            bool kickMeOut = false;
+
+            while (!kickMeOut)
+            {
+                if (forward == backwards || backwards < forward)
+                    kickMeOut = true;
+                if (isVowel(stringArray[forward]) && isVowel(stringArray[backwards]))
+                {
+                    var tempData = stringArray[forward];
+                    stringArray[forward] = stringArray[backwards];
+                    stringArray[backwards] = tempData;
+                    forward++;
+                    backwards--;
+                }
+                if (!isVowel(stringArray[forward]))
+                {
+                    forward++;
+                }
+
+                if (!isVowel(stringArray[backwards]))
+                {
+                    backwards--;
+                }
+            }
+            s = new String(stringArray);
+            return s;
+        }
+
+        static public bool isVowel(char letter)
+        {
+            letter = Char.ToLower(letter);
+            return letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u';
         }
     }
 }
