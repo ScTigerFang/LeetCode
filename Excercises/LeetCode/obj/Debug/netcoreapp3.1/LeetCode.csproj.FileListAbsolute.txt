@@ -1,0 +1,14 @@
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
+C:\Users\daniel\Source\Repos\LeetCode\Excercises\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.AssemblyReference.cache
